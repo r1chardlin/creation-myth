@@ -1,8 +1,4 @@
-
 <a name="readme-top"></a>
-
-
-
 
 [![MIT License][license-shield]][license-url]
 
@@ -41,6 +37,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/forrestcai35/wukong-jump](https://github.com/wukong-jump/)
+Project Link: https://github.com/r1chardlin/creation-myth
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[license-shield]: https://img.shields.io/badge/MIT-red?style=for-the-badge&label=LICENSE
