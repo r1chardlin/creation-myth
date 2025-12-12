@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]]
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
